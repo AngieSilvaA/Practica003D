@@ -57,3 +57,27 @@ ul {
     background: #ce7ff1;
     color: #ce7ff1;
   }
+
+  .contenedor{
+
+    display: flex;
+    justify-self: right;
+    align-items: center;
+  
+  }
+
+  .txt{
+    align-items: center;
+    margin-right:50px;
+    
+  }
+  
+  
+  .imagen{
+    align-items: center;
+    margin-right: 20px;
+    margin-top: 100px;
+    width:350px ;
+    height:250px; 
+
+  }
