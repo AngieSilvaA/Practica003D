@@ -98,4 +98,40 @@ ul {
     text-align: center;
 }
 
+.img{
+    
+    width:350px ;
+    height:250px; 
+    border-radius: 8px;
+    align-items: left;
+
+}
+
+.texto{
+  text-align: center;
+
+
+}
+
+.im{
+  width: 30px;
+    height: 30px; 
+    border-radius: 8px;
+    align-items: left;
+
+
+}
+
+.tem{
+  font-family: 'Roboto Mono', monospace;
+
+
+}
+
+.tv{
+  font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-size: 25px;
+}
+
   
