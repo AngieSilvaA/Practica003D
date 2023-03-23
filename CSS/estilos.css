@@ -134,4 +134,10 @@ font-family: 'Roboto Mono', monospace;
 font-size: 25px;
 }
 
+.tam{
+  width: 100%;
+  max-width: 500px;
+  float:right;
+}
+
   
